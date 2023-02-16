@@ -20,5 +20,6 @@ Déployer...
 | Utiliser HeidiSQL | <img src="img/schema_bouton.jpg" alt="" width="200">   |
 | Créer une BD avec un code source SQL et saisir les données  |    |
 | Réaliser des requêtes (*CRUD* ou *Create Retrieve Update Delete*) |    |
-| Réaliser d’autres opérations (*save*, *restore*, *aggregate*, *view*, *join*, opérations, fonctions, index, etc.) | <img src="img/schema_bouton.jpg" alt="" width="200">   |
+| Réaliser d’autres opérations (*aggregate*, *view*, *join*) | <img src="img/schema_bouton.jpg" alt="" width="200">   |
+| Réaliser d’autres opérations (opérations, fonctions, index, *save*, *restore*, etc.) |   |
 
