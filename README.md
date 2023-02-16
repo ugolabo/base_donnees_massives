@@ -38,9 +38,8 @@ Découvrir les bases de données NoSQL:
 | Lancer le serveur (mongod) | <img src="img/server.jpg" alt="" width="300"> |
 | Lancer un ou plusieurs clients (mongo, mongosh), utiliser les CLI... |  |
 | Utiliser Compass | <img src="img/compass.jpg" alt="" width="300"> |
-| Créer une BD locales et saisir les données |  |
-| Travailler avec Atlas et créer une grappe (*cluster*) |  |
-| Créer une BD Atlas et saisir les données |  |
-| Réaliser des requêtes (CRUD ou Create Retrieve Update Delete) |  |
-| Réaliser d’autres opérations (importer et sauvegarder en CSV et JSON, *dump* et *restore* en BSON) |  |
-| Réaliser d’autres opérations (opérateurs $, projections, index, agrégation, etc.) |  |
+| Créer une BD locales et saisir les données... |  |
+| Travailler avec Atlas, créer une grappe (*cluster*) et saisir les données... |  |
+| Réaliser des requêtes (CRUD ou Create Retrieve Update Delete) | <img src="img/crud.jpg" alt="" width="300"> |
+| Réaliser des opérations: opérateurs $, projections, index, agrégation |  |
+| Réaliser d'autres opérations: *import*, *save* (CSV, JSON), *dump*, *restore* (BSON) |  |
