@@ -2,7 +2,7 @@
 
 **Objectif:** analyser les besoins à partir du modèle conceptuel et déployer la base de données jusqu’à la mise en production.
 
-## SQL
+## SQL ou BD relationnelle
 
 | Déployer une BD relationnelle |    |
 |:---|:---|
