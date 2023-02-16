@@ -1,8 +1,4 @@
-# Databases: MariaDB for SQL, MongoDB for NoSQL; and Big Data
+# Bases de données: MariaDB pour SQL, MongoDB pour NoSQL; et Données Massives
 
 Databases: MariaDB for SQL, MongoDB for NoSQL; and Big Data
 
-|  |  |
-|--|--|
-| <img src="img/port1.jpg" alt=""> | <img src="img/port2.jpg" alt=""> |
-| <img src="img/port3.jpg" alt=""> | <img src="img/port4.jpg" alt=""> |
