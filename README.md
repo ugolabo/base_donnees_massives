@@ -8,7 +8,7 @@
 |:---|:---|
 | Établir le modèle conceptuel avec ERDPlus | <img src="img/relational_schema.jpg" alt="" width="300"> |
 | Étudier des études de cas (différents contextes, besoins) |    |
-| Maitriser la cardinalité, cardinalité | <img src="img/cardinality.jpg" alt="" width="250">   |
+| Maitriser la cardinalité, cardinalité | <img src="img/cardinality.jpg" alt="" width="300">   |
 | Générer le modèle physique avec ERDPlus (tables, champs, clés) | <img src="img/physical_schema.jpg" alt="" width="300"> |
 | Installer tous les outils | <img src="img/mariadb_mysql.jpg" alt="" width="300">   |
 | Lancer le serveur (myslqd) | <img src="img/server.jpg" alt="" width="300">   |
@@ -29,7 +29,7 @@ Découvrir les bases de données NoSQL:
 - Wide Column Stores: Cassandra, CosmoDB, Bigtable, HBase 
 - Key:Value: Aerospike, Berkeley DB, Couchbase, DynamoDB, Memcached, Riak, Redis
 
-<img src="img/schema_bouton.jpg" alt="" width="500">
+<img src="img/NoSQL.jpg" alt="" width="500">
 
 | Déployer MongoDB |    |
 |:---|:---|
