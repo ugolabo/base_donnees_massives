@@ -34,7 +34,7 @@ Découvrir les bases de données NoSQL:
 | Déployer MongoDB |    |
 |:---|:---|
 | Découvrir les schémas et les patrons: différents contextes, besoins... | <img src="img/patterns_matrix.jpg" alt="" width="300"> |
-| Installer tous les outils | <img src="img/compass.jpg" alt="" width="300"> |
+| Installer tous les outils | <img src="img/mongodb.jpg" alt="" width="300"> |
 | Lancer le serveur (mongod) |  |
 | Lancer un ou plusieurs clients (mongo, mongosh) |  |
 | Utiliser les CLI |  |
