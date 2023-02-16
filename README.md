@@ -35,9 +35,8 @@ Découvrir les bases de données NoSQL:
 |:---|:---|
 | Découvrir les schémas et les patrons: différents contextes, besoins... | <img src="img/patterns_matrix.jpg" alt="" width="300"> |
 | Installer tous les outils | <img src="img/mongodb.jpg" alt="" width="300"> |
-| Lancer le serveur (mongod) |  |
-| Lancer un ou plusieurs clients (mongo, mongosh) |  |
-| Utiliser les CLI |  |
+| Lancer le serveur (mongod) | <img src="img/server.jpg" alt="" width="300"> |
+| Lancer un ou plusieurs clients (mongo, mongosh), utiliser les CLI... |  |
 | Utiliser Compass | <img src="img/compass.jpg" alt="" width="300"> |
 | Créer une BD locales et saisir les données |  |
 | Travailler avec Atlas et créer une grappe (*cluster*) |  |
