@@ -33,15 +33,15 @@ Découvrir les bases de données NoSQL:
 
 | Déployer MongoDB |    |
 |:---|:---|
-| Découvrir les schémas et les patrons: différents contextes, besoins... | <img src="img/patterns_matrix.jpg" alt="" width="200"> |
-| Installer tous les outils |  |
+| Découvrir les schémas et les patrons: différents contextes, besoins... | <img src="img/patterns_matrix.jpg" alt="" width="300"> |
+| Installer tous les outils | <img src="img/compass.jpg" alt="" width="300"> |
 | Lancer le serveur (mongod) |  |
 | Lancer un ou plusieurs clients (mongo, mongosh) |  |
 | Utiliser les CLI |  |
-| Utiliser Compass | <img src="img/compass.jpg" alt="" width="200"> |
+| Utiliser Compass | <img src="img/compass.jpg" alt="" width="300"> |
 | Créer une BD locales et saisir les données |  |
 | Travailler avec Atlas et créer une grappe (*cluster*) |  |
-| Créer une BD Atlas et saisir les données | < |
+| Créer une BD Atlas et saisir les données |  |
 | Réaliser des requêtes (CRUD ou Create Retrieve Update Delete) |  |
 | Réaliser d’autres opérations (importer et sauvegarder en CSV et JSON, *dump* et *restore* en BSON) |  |
 | Réaliser d’autres opérations (opérateurs $, projections, index, agrégation, etc.) |  |
