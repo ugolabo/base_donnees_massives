@@ -31,6 +31,8 @@ Découvrir les bases de données NoSQL:
 
 <img src="img/NoSQL.jpg" alt="" width="400">
 
+Faire quelques formation Mongo University: M001 (MongoDB Basics), M100 (MongoDB for SQL Pros), M112 (Diagnostic Thinking), A300 (Atlas Security).
+
 | Déployer MongoDB |    |
 |:---|:---|
 | Découvrir les schémas et les patrons: différents contextes, besoins... | <img src="img/patterns_matrix.jpg" alt="" width="300"> |
