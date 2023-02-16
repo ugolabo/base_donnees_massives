@@ -11,7 +11,7 @@
 | Générer le modèle physique (tables, champs, clés), relational schema | <img src="img/physical_schema.jpg" alt="" width="200"> |
 | Faire des études de cas |    |
 | Installer tous les outils | <img src="img/mariadb_mysql.jpg" alt="" width="200">   |
-| Lancer le serveur (myslqd) | <img src="img/serveur.jpg" alt="" width="250">   |
+| Lancer le serveur (myslqd) | <img src="img/server.jpg" alt="" width="250">   |
 | Lancer un ou plusieurs clients (mysql), utiliser les CLI |    |
 | Utiliser Workbench | <img src="img/workbench.jpg" alt="" width="200">   |
 | Utiliser HeidiSQL | <img src="img/heidisql.jpg" alt="" width="200">   |
