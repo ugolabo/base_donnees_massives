@@ -17,8 +17,8 @@
 | Utiliser HeidiSQL | <img src="img/heidisql.jpg" alt="" width="300">   |
 | Créer une BD avec un code source SQL et saisir les données...  |    |
 | Réaliser des requêtes (*CRUD* ou *Create Retrieve Update Delete*) | <img src="img/crud.jpg" alt="" width="300">   |
-| Réaliser d'autres opérations (*aggregate*, *view*, *join*) | <img src="img/sql-joins.jpg" alt="" width="300">   |
-| Réaliser d'autres opérations (opérations, fonctions, index, *save*, *restore*, etc.) |   |
+| Réaliser des opérations: opérateurs, *aggregate*, *view*, *join* | <img src="img/sql-joins.jpg" alt="" width="300">   |
+| Réaliser d'autres opérations: fonctions, index, *save*, *restore*, etc. |   |
 
 ## NoSQL
 
