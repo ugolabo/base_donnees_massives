@@ -6,30 +6,30 @@
 
 | Déployer |    |
 |:---|:---|
-| Établir le modèle conceptuel; modéliser avec ERDPlus, ER diagram | <img src="img/relational_schema.jpg" alt="" width="300"> |
+| Établir le modèle conceptuel avec ERDPlus | <img src="img/relational_schema.jpg" alt="" width="300"> |
+| Étudier des études de cas (différents contextes, besoins) |    |
 | Maitriser la cardinalité, cardinalité | <img src="img/cardinality.jpg" alt="" width="250">   |
-| Générer le modèle physique (tables, champs, clés), relational schema | <img src="img/physical_schema.jpg" alt="" width="300"> |
-| Faire des études de cas |    |
+| Générer le modèle physique avec ERDPlus (tables, champs, clés) | <img src="img/physical_schema.jpg" alt="" width="300"> |
 | Installer tous les outils | <img src="img/mariadb_mysql.jpg" alt="" width="300">   |
 | Lancer le serveur (myslqd) | <img src="img/server.jpg" alt="" width="300">   |
-| Lancer un ou plusieurs clients (mysql), utiliser les CLI |    |
+| Lancer un ou plusieurs clients (mysql), utiliser les CLI... |    |
 | Utiliser Workbench | <img src="img/workbench.jpg" alt="" width="300">   |
 | Utiliser HeidiSQL | <img src="img/heidisql.jpg" alt="" width="300">   |
-| Créer une BD avec un code source SQL et saisir les données  |    |
+| Créer une BD avec un code source SQL et saisir les données...  |    |
 | Réaliser des requêtes (*CRUD* ou *Create Retrieve Update Delete*) | <img src="img/crud.jpg" alt="" width="300">   |
-| Réaliser d’autres opérations (*aggregate*, *view*, *join*) | <img src="img/sql-joins.jpg" alt="" width="300">   |
-| Réaliser d’autres opérations (opérations, fonctions, index, *save*, *restore*, etc.) |   |
+| Réaliser d'autres opérations (*aggregate*, *view*, *join*) | <img src="img/sql-joins.jpg" alt="" width="300">   |
+| Réaliser d'autres opérations (opérations, fonctions, index, *save*, *restore*, etc.) |   |
 
 ## NoSQL
 
-Découvrir le NoSQL:
+Découvrir les bases de données NoSQL:
 
-- Document, MongoDB, Elasticsearch, CouchDB, BaseX
+- Document: MongoDB, Elasticsearch, CouchDB, BaseX
 - Graph: Neo4j, RediGraph, OrientDB
-- Wide Column Stores: Cassandra, CosmoDB, Bigtable, HBase, 
+- Wide Column Stores: Cassandra, CosmoDB, Bigtable, HBase 
 - Key:Value: Aerospike, Berkeley DB, Couchbase, DynamoDB, Memcached, Riak, Redis
 
-<img src="img/schema_bouton.jpg" alt="" width="600">
+<img src="img/schema_bouton.jpg" alt="" width="500">
 
 | Déployer MongoDB |    |
 |:---|:---|
