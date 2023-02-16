@@ -4,9 +4,9 @@
 
 ## SQL
 
-Déployer...
 
-|    |    |
+
+| Déployer |    |
 |:---|:---|
 | Établir le modèle conceptuel; modéliser avec ERDPlus, ER diagram | <img src="img/schema_bouton.jpg" alt="" width="200"> |
 | Maitriser la cardinalité, cardinalité |    |
