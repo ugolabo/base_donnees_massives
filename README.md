@@ -2,9 +2,9 @@
 
 **Objectif:** analyser les besoins à partir du modèle conceptuel et déployer la base de données jusqu’à la mise en production.
 
-## SQL ou relationnelle
+## SQL
 
-| Déployer |    |
+| Déployer une BD relationnelle |    |
 |:---|:---|
 | Établir le modèle conceptuel avec ERDPlus | <img src="img/physical_schema.jpg" alt="" width="300"> |
 | Étudier des études de cas: différents contextes, besoins... |    |
