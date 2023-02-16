@@ -29,7 +29,7 @@ Découvrir les bases de données NoSQL:
 - Wide Column Stores: Cassandra, CosmoDB, Bigtable, HBase 
 - Key:Value: Aerospike, Berkeley DB, Couchbase, DynamoDB, Memcached, Riak, Redis
 
-<img src="img/NoSQL.jpg" alt="" width="400">
+<img src="img/NoSQL.jpg" alt="" width="300">
 
 Faire quelques formation Mongo University:
 
