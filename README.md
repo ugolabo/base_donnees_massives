@@ -1,6 +1,6 @@
 # Bases de données: MariaDB, MySQL pour SQL, MongoDB pour NoSQL; et Données Massives
 
-**Objectif:** analyser les besoins à partir du modèle conceptuel et déployer la base de données jusqu’à la mise en production.
+**Objectif:** analyser les besoins à partir du modèle conceptuel et déployer la base de données jusqu'à la mise en production.
 
 ## SQL ou BD relationnelle
 
