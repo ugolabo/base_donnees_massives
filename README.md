@@ -24,10 +24,10 @@
 
 Découvrir les bases de données NoSQL:
 
-- Document: MongoDB, Elasticsearch, CouchDB, BaseX
-- Graph: Neo4j, RediGraph, OrientDB
-- Wide Column Stores: Cassandra, CosmoDB, Bigtable, HBase 
-- Key:Value: Aerospike, Berkeley DB, Couchbase, DynamoDB, Memcached, Riak, Redis
+1. Document: MongoDB, Elasticsearch, CouchDB, BaseX
+2. Graph: Neo4j, RediGraph, OrientDB
+3. Wide Column Stores: Cassandra, CosmoDB, Bigtable, HBase 
+4. Key:Value: Aerospike, Berkeley DB, Couchbase, DynamoDB, Memcached, Riak, Redis
 
 <img src="img/NoSQL.jpg" alt="" width="300">
 
