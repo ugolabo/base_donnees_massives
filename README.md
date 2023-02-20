@@ -46,7 +46,7 @@ Faire quelques formation Mongo University:
 | Lancer un ou plusieurs clients (mongo, mongosh), utiliser les CLI... |  |
 | Utiliser Compass | <img src="img/compass.jpg" alt="" width="300"> |
 | Créer une BD locales et saisir les données... |  |
-| Travailler avec Atlas, créer une grappe (*cluster*) et saisir les données... | <img src="img/atlas.jpg" alt="" width="300"> |
+| Travailler avec Atlas, créer une grappe (*cluster*) et saisir les données... | <img src="img/atlas_cluster.jpg" alt="" width="300"> |
 | Réaliser des requêtes (CRUD ou Create Retrieve Update Delete) | <img src="img/crud.jpg" alt="" width="300"> |
 | Réaliser des opérations: opérateurs $, projections, index, agrégation |  |
 | Réaliser d'autres opérations: *import*, *save* (CSV, JSON), *dump*, *restore* (BSON) |  |
